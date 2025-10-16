@@ -13,7 +13,10 @@ public class Proyecto01 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) {System.out.println("Ejemplo de Java\n" +
+"Manejado desde GitHub\n" +
+"Versionado a través de Git\n" +
+"Creado por <Bananin-DEV>");
         // TODO code application logic here
     }
     
